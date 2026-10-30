@@ -9,15 +9,15 @@ Ao digitar 0. percorre a lista com for e mostra: quantidade de compras, total br
 # Como rodar?
 python pdv.py
 # Tabela de exemplos
-Valor (R$)	Idade	Desconto idade	Desconto valor	Valor final esperado
-1	50,00	30	0%	0%	50,00
-2	100,00	30	0%	0%	100,00
-3	80,00	65	20%	0%	64,00
-4	100,00	70	20%	0%	80,00
-5	125,00	70	20%	0%	100,00
-6	200,00	30	0%	10%	180,00
-7	101,00	30	0%	10%	90,90
-8	200,00	65	20%	10%	144,00
-9	1000,00	80	20%	10%	720,00
-10	200,00	64	0%	10%	180,00
+    #  Valor (R$)	Idade	  Desconto idade	Desconto valor	Valor final esperado
+1	    50,00	      30	      0%	0%	50,00
+2    	100,00	    30	      0%	0%	100,00
+3	    80,00	      65	     20%	0%	64,00
+4	    100,00	    70	     20%	0%	80,00
+5	    125,00	    70	    20%	0%	100,00
+6   	200,00	    30	    0%	10%	180,00
+7	   101,00	      30     	0%	10%	90,90
+8  	 200,00     	65	    20%	10%	144,00
+9	   1000,00	    80	  20%	10%	720,00
+10	  200,00	    64	  0%	10%	180,00
 
